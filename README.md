@@ -2,7 +2,7 @@
 
 <p align="center">
 This repository contains my <b>daily Verilog practice code</b> as part of my continuous learning journey in 
-<b>digital design</b> and <b>hardware architecture</b>.<br>
+<b>digital design</b>.<br>
 I explore fundamental and advanced topics like <b>combinational & sequential logic</b>, 
 <b>RTL design</b>, and <b>testbench development</b>.  
 </p>
