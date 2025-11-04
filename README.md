@@ -22,6 +22,3 @@ I explore fundamental and advanced topics like <b>combinational & sequential log
 
 ---
 
-<p align="center">
-✨ <i>Designed to strengthen my understanding of Verilog, RTL design, and digital circuit simulation.</i> ✨
-</p>
