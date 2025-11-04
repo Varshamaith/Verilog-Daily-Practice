@@ -13,7 +13,7 @@ I explore fundamental and advanced topics like <b>combinational & sequential log
 
 ---
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
+<h3 align="center">🛠️ Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-FFB400?style=for-the-badge&logo=xilinx&logoColor=black" alt="Vivado"/>
